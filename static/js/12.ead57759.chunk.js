@@ -1,0 +1,1 @@
+(this.webpackJsonpfrontend=this.webpackJsonpfrontend||[]).push([[12],{532:function(t,e,n){"use strict";n.r(e);var c=n(70),s=n(9),r=n(1);e.default=function(t){Object(c.a)(t);return Object(r.jsx)(s.tb,{children:Object(r.jsx)(s.cb,{lg:6,children:Object(r.jsx)(s.h,{text:"Wow"})})})}}}]);
